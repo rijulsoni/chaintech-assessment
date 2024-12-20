@@ -30,13 +30,13 @@ Before you begin, ensure that you have the following installed:
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/rijulsoni/chaintech-assessment.git
    ```
 
 2. **Navigate into the project directory**:
 
    ```bash
-   cd your-repo-name
+   cd chaintech-assessment
    ```
 
 3. **Install the necessary dependencies**:
